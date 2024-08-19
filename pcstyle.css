@@ -27,7 +27,7 @@ figure {
     border-radius: 5px; /* Радиус скругления */
     padding: 3px; /* Поля */
     object-fit: cover;
-    width: 400x;
+    width: 400px;
     height: 400px;
   
 }
